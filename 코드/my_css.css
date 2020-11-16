@@ -1,0 +1,95 @@
+@font-face {
+  src : url("BMJUA_ttf.ttf");
+  font-family: "jua" ;
+}
+
+*{
+font-family: "jua";
+}
+
+body {
+  margin: 0%;
+  width: 100%;
+  height: 100%;
+  font-family: "jua";
+}
+
+#status{
+  font-size: 30px;
+}
+
+.example{
+  font-size: 30px;
+  font-family: "jua";
+}
+
+.AA{
+    font-size: 30px;
+}
+
+#name{
+font-family: "jua";
+  font-size: 54px;
+  color: white;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+/*
+body.right {
+  background-color: #FB8BC6;
+  width: 50%;
+  height: 100%;
+}
+
+body.left {
+  background-color: #9EDBB7;
+  width: 50%;
+  height: 100%;
+} */
+
+#videoContainer {
+  position: absolute;
+  left: 2%;
+  top: 50px;
+  border: 5px solid #9CA4F6;
+  border-radius: 10px;
+}
+
+#textLine{
+  margin : 10%;
+  width: 75%;
+  font-family: "jua";
+}
+
+#text{
+  width: 100%;
+  font-family: "jua";
+}
+
+#left{
+  float: left;
+  background-color: #9EDBB7;
+  font-family: "jua";
+  width: 50%;
+  height: 100%;
+}
+
+button{
+    font-size: 40px;
+}
+
+#right {
+  float: right;
+  background-color: #9968E7;
+  font-family: "jua";
+  padding-left: 2%;
+  width: 48%;
+  height: 100%;
+  z-index: 1;
+  overflow: scroll;
+}
+
+#right_in{
+  margin-top: 50%;
+  margin-left: 30%;
+}

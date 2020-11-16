@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="ex2.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.0.min.js" ></script>
+
+    <style media="screen">
+      @font-face {
+        src : url("BMJUA_ttf.ttf");
+        font-family: "jua" ;
+      }
+
+      *{
+      font-family: "jua";
+      }
+
+      #box{
+        margin: 0%;
+        width: 100%;
+        height: 937px;
+      }
+
+      #k1{
+        float: left;
+        width: 50%;
+        height:100%;
+        font-size: 60px;
+      }
+
+      #k2{
+        float: right;
+        width: 50%;
+        height:100%;
+        font-size: 60px;
+      }
+    </style>
+
+  </head>
+  <body>
+    <div id="box">
+      <input type="button" class="btn btn-outline-primary" id="k1" value="대화 페이지" onclick="goConversation()">
+      <input type="button" class="btn btn-outline-success" id="k2" value="학습 페이지" onclick="goLearning()">
+    </div>
+
+    <script type="text/javascript">
+    function goConversation() {
+       location.href="Conversation.html";
+     }
+     function goLearning() {
+        location.href="Learning.html";
+      }
+    </script>
+  </body>
+</html>
