@@ -10,3 +10,9 @@
 ![움직이는 동작](https://user-images.githubusercontent.com/58585968/98902186-8a8e4100-24f8-11eb-9a24-bb31c4651ec9.gif)
 
 -TesnsorFlow를 기반으로 하는 PoseNet에서 제공하는 사람의 자세 추청(pose    estimation) AI 기술을 활용
+
+|기업|제품|
+|:---:|:---:|
+||테스트1|||테스트2||
+||테스트1|||테스트2||
+||테스트1|||테스트2||
