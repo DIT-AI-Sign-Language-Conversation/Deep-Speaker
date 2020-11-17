@@ -14,7 +14,7 @@
 |기업|제품|
 |:---:|:---:|
 ![amazon](https://user-images.githubusercontent.com/58585968/99239106-eda40e80-283d-11eb-85f2-675c003223ba.png)|![amazon제품](https://user-images.githubusercontent.com/58585968/99239140-fac0fd80-283d-11eb-94ca-d097112f1984.png)|
-![google로고](https://user-images.githubusercontent.com/58585968/99239188-0ad8dd00-283e-11eb-8773-f437160bf240.png)||![google제품](https://user-images.githubusercontent.com/58585968/99239201-11675480-283e-11eb-9517-283173b56816.png)||
+![google로고](https://user-images.githubusercontent.com/58585968/99239188-0ad8dd00-283e-11eb-8773-f437160bf240.png)||![google제품](https://user-images.githubusercontent.com/58585968/99239201-11675480-283e-11eb-9517-283173b56816.png)|
 ![skt로고](https://user-images.githubusercontent.com/58585968/99239206-13c9ae80-283e-11eb-902a-b4b4730bfdb6.png)|![skt제품](https://user-images.githubusercontent.com/58585968/99239208-15937200-283e-11eb-8077-fc059c34a43a.png)||
 
 
